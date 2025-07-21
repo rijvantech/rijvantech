@@ -31,7 +31,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rijvantech&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rijvantech&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=rijvantech&theme=tokyonight" />
 </p>
 
 ---
