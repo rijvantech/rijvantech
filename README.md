@@ -8,7 +8,7 @@
 - 🧠 Passionate about **clean UI**, **animations**, and **scalable architecture**
 - 🌱 Currently exploring **Framer Motion**, **Next.js 14**, and **AI**
 - 💬 Ask me about: **SPA builds, UI/UX, JS performance, TypeScript migration**
-- 📫 Reach me: your.email@example.com | [LinkedIn](https://www.linkedin.com/in/rijvan-mohammad-8b809210b/)
+- 📫 Reach me: rijvanmohd007@gmail.com | [LinkedIn](https://www.linkedin.com/in/rijvan-mohammad-8b809210b/)
 - 📝 Portfolio: [yourname.dev](https://yourname.dev)
 
 ---
